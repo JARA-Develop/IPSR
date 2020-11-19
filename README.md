@@ -1,5 +1,5 @@
-# Coherent Semantic Attention for image inpainting (ICCV 2019)
-[Arxiv](https://arxiv.org/abs/1905.12384) |[ICCV 2019 paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Coherent_Semantic_Attention_for_Image_Inpainting_ICCV_2019_paper.pdf)| [BibTex](#jump1)
+# Inter-picture Semantic Reference Inpainting 
+
 
 -----------
 ## Introduction
